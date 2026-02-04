@@ -4,9 +4,7 @@
   "description": "Professional investment research showcase website with interactive data visualizations",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js",
-    "serve": "node server.js",
+   
     "build": "echo 'Build process - minify CSS/JS, optimize images, etc.'",
     "test": "echo 'Run tests'",
     "lint": "echo 'Run linting'",
